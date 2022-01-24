@@ -5,6 +5,11 @@
   Create accounts, add friends, post comments and reactions using a Mongoose database
   
   
+
+https://user-images.githubusercontent.com/54012873/150844762-0fba6189-64de-4476-8e08-44d042fa7aff.mp4
+
+
+  
   ## Table of Contents
 
   * [Installation](#installation)
