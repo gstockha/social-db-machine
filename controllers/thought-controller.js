@@ -92,9 +92,7 @@ const thoughtController = {
         .select("-__v")
         .then((thoughtData) => {
             if (!thoughtData) {
-                res
-                .status(404)
-                .json({ message: "Thought with this ID does not exist!" });
+                res.status(404).json({ message: "Thought with this ID does not exist!" });
                 return;
             }
             res.json(thoughtData);
