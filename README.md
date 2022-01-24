@@ -9,7 +9,6 @@
 
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -21,10 +20,6 @@
   ## Usage
 
   Navigate to the folder and run node server.js in the terminal
-
-  ## license
-
-  
 
   ## Contributing
 
